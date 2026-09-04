@@ -1,4 +1,4 @@
-# Veeam 365 / VDC Support Tools
+# Veeam Backup for Microsoft 365 / VDC Scripts
 
 Tools I've created to facilitate my support activities when working with Veeam Backup for Microsoft 365 (Veeam 365) and Veeam Data Cloud (VDC).
 
